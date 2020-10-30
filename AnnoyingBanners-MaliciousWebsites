@@ -64,10 +64,16 @@ moon.vn###Top_lbLivestream > div > .table > tbody > tr > td
 ||animetvn.tv/ads/
 ||animetvn.tv/ads/img/
 ||animetvn.tv/ads/img
+||animetvn.tv/img/off-ads.png
+||animetvn.tv/*img/*
 ##.container > .gnarty-offads
 ##.container > .gnarty-offads > .film-play-ads
 ##[href^="https://www.vz888.me/"]
 ##[src="https://animetvn.tv/ads/img/top_page_5.gif"]
+###menubentrai
+##.bentrai_two
+##.gnarty-home-off-ads
+
 
 ! fshare.vn (Annoying Banners)
 ||storage.fshare.vn/images/BannerCT_eventgr.gif
