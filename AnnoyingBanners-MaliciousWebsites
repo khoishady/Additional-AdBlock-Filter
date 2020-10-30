@@ -1,43 +1,49 @@
 ! Copyright: khoishady@kanekiken
 ! Report ads (annoying banners) or broken page due to my filter: khoishady1908@gmail.com
 
-! Cá độ bóng đá - Trang bất hợp pháp (Betting / Illegal Pages)
+! Cá độ bóng đá - Trang bất hợp pháp - Lừa đảo - Giả mạo (Betting | Illegal Pages | Fraud | Scam)
 ||shop.vnsmarts.com
 ||twin188.co
 ||twin188.co/?ref=anime188
 ||baayvip.net
 ||new.vx88.com
-||vz888.me^
+||vz888.me
+||cpmstar.com
+||888.com
+||bit.ly/3iczEHP
+||onemartshop.info
+||findglocal.com
+||
 
-! https://vietjack.com
+! https://vietjack.com (Promotions)
 ||vietjack.com/git/images/course_right.jpg$image
 ||www.facebook.com/v2.12/plugins/page.php?adapt_container_width=true&app_id=1642028219373274&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1d40f02200b0c%26domain%3Dvietjack.com%26origin%3Dhttps%253A%252F%252Fvietjack.com%252Ffe7b35caf71c7c%26relation%3Dparent.parent&container_width=300&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Fhoc.cung.vietjack%2F&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=&width=$subdocument
 vietjack.com##.navbar-header.navbar-default.navbar > .container-fluid
 
-! https://hoc247.net
+! https://hoc247.net (Promotions)
 hoc247.net###content-inread-video-15c47dbd541741bd976281bcda70b78c-1600485690939
 hoc247.net###wrapper-inread-video-15c47dbd541741bd976281bcda70b78c-1600485690939
 ||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-THPT300x250.jpg$image
 
-! https://tuhoc365.vn
+! https://tuhoc365.vn (Promotions)
 ||tuhoc365.vn/wp-content/uploads/2020/03/qa-238x145.png$image
 tuhoc365.vn##.mg-bottom-15.mg-top-15.hidden-sm.hidden-xs > .adsbygoogle
 
-! https://hoc247.net
+! https://hoc247.net (Promotions)
 hoc247.net###content-inread-video-15c47dbd541741bd976281bcda70b78c-1600486135246
 hoc247.net###wrapper-inread-video-15c47dbd541741bd976281bcda70b78c-1600486135246
 ||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-1.gif?id=1.001d$image
 
-! www.youtube.com
+! www.youtube.com (Promotions)
 ||www.gstatic.com/youtube/img/promos/growth/1a88f3ce3c9ef2d34a05cf83e31e02c85c8298937c65bfd9238c6d8098937559_140x140.png$image
 
 ! https://tmthan.com
 tmthan.com##.header-layout-6.nav-bar-container
 
-! https://business.facebook.com
+! https://business.facebook.com (Annoying Media)
 business.facebook.com##video
 
-! https://moon.vn
+! https://moon.vn (Promotions)
 ||moon.vn/images/img/1030202011103PM.jpg$image
 ||moon.vn/images/img/1030202015738PM.jpg$image
 ||moon.vn/images/img/1030202012417PM.jpg$image
@@ -48,10 +54,13 @@ business.facebook.com##video
 ||moon.vn/images/img/1030202015738PM.jpg$image
 ||moon.vn/images/img/76202032736PM.jpg$image
 
-! https://animetvn.tv
+! https://animetvn.tv (Ads and Annoying Banners)
 ||animetvn.tv/ads/img/top_page_3.gif$image
 ||animetvn.tv/ads/img/top_page_3.gif$image
 ||animetvn.tv/ads/img/top_page_3.gif$image
 ||animetvn.tv/ads/img/top_page_3.gif$image
 ||animetvn.tv/ads/
 
+! fshare.vn (Annoying Banners)
+||storage.fshare.vn/images/BannerCT_eventgr.gif
+www.fshare.vn###close-banner
