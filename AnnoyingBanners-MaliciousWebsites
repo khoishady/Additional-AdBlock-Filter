@@ -1,5 +1,6 @@
 ! Copyright: khoishady@kanekiken
 ! Report ads (annoying banners) or broken page due to my filter: khoishady1908@gmail.com
+! Filter Updated: 20:46 2020/10/30
 
 ! Cá độ bóng đá - Trang bất hợp pháp - Lừa đảo - Giả mạo (Betting | Illegal Pages | Fraud | Scam)
 ||shop.vnsmarts.com
@@ -15,7 +16,7 @@
 ||findglocal.com
 ||
 
-! https://vietjack.com (Promotions)
+! https://vietjack.com (Promotions | Banners)
 ||vietjack.com/git/images/course_right.jpg$image
 ||www.facebook.com/v2.12/plugins/page.php?adapt_container_width=true&app_id=1642028219373274&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1d40f02200b0c%26domain%3Dvietjack.com%26origin%3Dhttps%253A%252F%252Fvietjack.com%252Ffe7b35caf71c7c%26relation%3Dparent.parent&container_width=300&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Fhoc.cung.vietjack%2F&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=&width=$subdocument
 vietjack.com##.navbar-header.navbar-default.navbar > .container-fluid
@@ -45,7 +46,7 @@ tmthan.com##.header-layout-6.nav-bar-container
 ! https://business.facebook.com (Annoying Media)
 business.facebook.com##video
 
-! https://moon.vn (Promotions)
+! https://moon.vn (Promotions | Banners)
 ||moon.vn/images/img/1030202011103PM.jpg$image
 ||moon.vn/images/img/1030202015738PM.jpg$image
 ||moon.vn/images/img/1030202012417PM.jpg$image
@@ -55,11 +56,9 @@ business.facebook.com##video
 ||moon.vn/images/img/1030202012417PM.jpg$image
 ||moon.vn/images/img/1030202015738PM.jpg$image
 ||moon.vn/images/img/76202032736PM.jpg$image
+moon.vn###Top_lbLivestream > div > .table > tbody > tr > td
 
 ! https://animetvn.tv (Ads and Annoying Banners)
-||animetvn.tv/ads/img/top_page_3.gif$image
-||animetvn.tv/ads/img/top_page_3.gif$image
-||animetvn.tv/ads/img/top_page_3.gif$image
 ||animetvn.tv/ads/img/top_page_3.gif$image
 ||animetvn.tv/ads/
 
