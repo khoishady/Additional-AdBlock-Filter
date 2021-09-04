@@ -1,11 +1,9 @@
 ! Copyright: khoishady@kanekiken
 ! Report ads (annoying banners) or broken page due to my filter: khoishady1908@gmail.com
-! Filter Updated: 09:29 2020/11/02
 
 ! Cá độ bóng đá - Trang bất hợp pháp - Lừa đảo - Giả mạo (Betting | Illegal Pages | Fraud | Scam)
 ||shop.vnsmarts.com
 ||twin188.co
-||http://twin188.co/?ref=anime188
 ||baayvip.net
 ||new.vx88.com
 ||vz888.me
@@ -15,56 +13,31 @@
 ||onemartshop.info
 ||findglocal.com
 ||sky88.com
+||lucky88.online
+||five88.me
+||refpa.top
 
-! Others
+! Others | Elements Block | Trackers
 
-||vietjack.com/git/images/course_right.jpg$image
-||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-THPT300x250.jpg$image
-||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-1.gif?id=1.001d$image
-||tuhoc365.vn/wp-content/uploads/2020/03/qa-238x145.png$image
-||www.gstatic.com/youtube/img/promos/growth/1a88f3ce3c9ef2d34a05cf83e31e02c85c8298937c65bfd9238c6d8098937559_140x140.png$image
-||www.gstatic.com/youtube/img/promos
-||www.gstatic.com/youtube/img/promos/
-||www.facebook.com/v2.6/plugins/customer_chat/bubble$subdocument
-||www.facebook.com/v2.6/plugins/customerchat.php$subdocument
-||moon.vn/images/img/
-||moon.vn/images/img/*
-||moon.vn/images/img/12172020113729PM.jpg$image
-||moon.vn/images/img/1030202011103PM.jpg$image
-||moon.vn/images/img/1030202015738PM.jpg$image
-||moon.vn/images/img/1030202012417PM.jpg$image
-||moon.vn/images/img/1030202015738PM.jpg$image
-||moon.vn/images/img/1030202012417PM.jpg$image
-||moon.vn/images/img/1030202011103PM.jpg$image
-||moon.vn/images/img/1030202012417PM.jpg$image
-||moon.vn/images/img/1030202015738PM.jpg$image
-||moon.vn/images/img/76202032736PM.jpg$image
-||moon.vn/images/img/12172020113803PM.jpg$image
-||moon.vn/images/img/12172020113729PM.jpg$image
+www.fshare.vn##.video
 
-||www.facebook.com/v2.6/plugins/customerchat.php?app_id=1784956665094089&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2d58bafc537928%26domain%3Dmoon.vn%26origin%3Dhttps%253A%252F%252Fmoon.vn%252Ff379ebe1c1aefe4%26relation%3Dparent.parent&container_width=0&local_state=%7B%22v%22%3A0%2C%22path%22%3A2%2C%22chatState%22%3A1%2C%22visibility%22%3A%22not-hidden%22%2C%22showUpgradePrompt%22%3A%22not_shown%22%7D&locale=vi_VN&page_id=543844639038875&request_time=1608692862925&sdk=joey$subdocument
-||animetvn.tv/ads/img/top_page_3.gif$image
-||animetvn.tv/ads/img/top_page_*.gif
-||animetvn.tv/ads
-||animetvn.tv/ads/
-||animetvn.tv/ads/img/
-||animetvn.tv/ads/img
-||animetvn.tv/img/off-ads.png
-||animetvn.tv/*img/*
-||storage.fshare.vn/images/BannerCT_eventgr.gif
-||cedexis.com^
-||wzrkt.com^
-||ads-cdn.fptplay.net
-||adsplay.xyz^
-||appsflyer.com^
-||doubleclick.net^
-||pagead2.googlesyndication.com^
-||pagead*.googlesyndication.com^
-||www.facebook.com/v2.12/plugins/page.php?adapt_container_width=true&app_id=1642028219373274&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1d40f02200b0c%26domain%3Dvietjack.com%26origin%3Dhttps%253A%252F%252Fvietjack.com%252Ffe7b35caf71c7c%26relation%3Dparent.parent&container_width=300&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Fhoc.cung.vietjack%2F&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=&width=$subdocument
-||s.truyenchon.com/data/sites/1/banner/300x250-top.gif?v=3
-||s.truyenchon.com/data/sites/1/banner/300x250-top.gif
-||s.truyenchon.com/data/sites/1/banner/
-||i-vn.joboko.com/images/jqc/1.jpg
+##[href="https://www.nettruyen.com/donate"]
+##.container > .gnarty-offads
+##.container > .gnarty-offads > .film-play-ads
+##[href^="https://www.vz888.me/"]
+##[src="https://animetvn.tv/ads/img/top_page_5.gif"]
+###menubentrai
+##.bentrai_two
+##.gnarty-home-off-ads
+##span.mmt-menu__item
+##.mmt-app
+##.mmt-container--fit.mmt-container
+###metu
+##[href^="https://sky88.com/"]
+##[src="http://s.truyenchon.com/data/sites/1/banner/300x250-top.gif?v=3"]
+##.pull-right.hidden-xs.list-inline.nav-account > .login-link > [href^="https://www.nettruyen.com/Secure/Login.aspx"]
+##.pull-right.hidden-xs.list-inline.nav-account > .register-link > [href^="https://www.nettruyen.com/Secure/Register.aspx"]
+##[src="https://i-vn.joboko.com/images/jqc/1.jpg"]
 
 moon.vn##.col-lg-5 > div
 vietjack.com##.navbar-header.navbar-default.navbar > .container-fluid
@@ -87,20 +60,33 @@ hoc247.net###content-inread-video-15c47dbd541741bd976281bcda70b78c-1600485690939
 hoc247.net###wrapper-inread-video-15c47dbd541741bd976281bcda70b78c-1600485690939
 moon.vn##[src^="https://www.facebook.com/v2.6/plugins/customerchat.php?app_id=1784956665094089&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df181fd06cf0e47%26domain%3Dmoon.vn%26origin%3Dhttps%253A%252F%252Fmoon.vn%252Ffc05"]
 
-##[href="https://www.nettruyen.com/donate"]
-##.container > .gnarty-offads
-##.container > .gnarty-offads > .film-play-ads
-##[href^="https://www.vz888.me/"]
-##[src="https://animetvn.tv/ads/img/top_page_5.gif"]
-###menubentrai
-##.bentrai_two
-##.gnarty-home-off-ads
-##span.mmt-menu__item
-##.mmt-app
-##.mmt-container--fit.mmt-container
-###metu
-##[href^="https://sky88.com/"]
-##[src="http://s.truyenchon.com/data/sites/1/banner/300x250-top.gif?v=3"]
-##.pull-right.hidden-xs.list-inline.nav-account > .login-link > [href^="https://www.nettruyen.com/Secure/Login.aspx"]
-##.pull-right.hidden-xs.list-inline.nav-account > .register-link > [href^="https://www.nettruyen.com/Secure/Register.aspx"]
-##[src="https://i-vn.joboko.com/images/jqc/1.jpg"]
+||beacons5.gvt3.com^
+||jdb.link^
+||app-measurement.com^
+||truyenvua.com/qc-new/$image
+||vietjack.com/git/images/course_right.jpg$image
+||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-THPT300x250.jpg$image
+||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-1.gif?id=1.001d$image
+||tuhoc365.vn/wp-content/uploads/2020/03/qa-238x145.png$image
+||www.gstatic.com/youtube/img/promos/growth/1a88f3ce3c9ef2d34a05cf83e31e02c85c8298937c65bfd9238c6d8098937559_140x140.png$image
+||www.gstatic.com/youtube/img/promos
+||www.gstatic.com/youtube/img/promos/
+||www.facebook.com/v2.6/plugins/customer_chat/bubble$subdocument
+||www.facebook.com/v2.6/plugins/customerchat.php$subdocument
+||animetvn.tv/ads/
+||animetvn.tv/ads/img
+||animetvn.tv/*img/*
+||storage.fshare.vn/images/BannerCT_eventgr.gif
+||cedexis.com^
+||wzrkt.com^
+||ads-cdn.fptplay.net
+||adsplay.xyz^
+||appsflyer.com^
+||doubleclick.net^
+||pagead2.googlesyndication.com^
+||pagead*.googlesyndication.com^
+||www.facebook.com/v2.12/plugins/page.php?adapt_container_width=true&app_id=1642028219373274&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1d40f02200b0c%26domain%3Dvietjack.com%26origin%3Dhttps%253A%252F%252Fvietjack.com%252Ffe7b35caf71c7c%26relation%3Dparent.parent&container_width=300&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Fhoc.cung.vietjack%2F&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=&width=$subdocument
+||s.truyenchon.com/data/sites/1/banner/300x250-top.gif?v=3
+||s.truyenchon.com/data/sites/1/banner/300x250-top.gif
+||s.truyenchon.com/data/sites/1/banner/
+||i-vn.joboko.com/images/jqc/1.jpg
