@@ -23,6 +23,8 @@ www.fshare.vn##.video
 truyenqq.net##.popup_wrapper_visible.popup_wrapper
 truyenqq.net###image_popup_background
 truyenqq.net##.left-banner
+truyenqq.net##.image_close
+truyenvua.com
 
 ##[href="https://www.nettruyen.com/donate"]
 ##.container > .gnarty-offads
@@ -67,6 +69,7 @@ moon.vn##[src^="https://www.facebook.com/v2.6/plugins/customerchat.php?app_id=17
 ||jdb.link^
 ||app-measurement.com^
 ||truyenvua.com/qc-new/$image
+||truyenvua.com^
 ||vietjack.com/git/images/course_right.jpg$image
 ||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-THPT300x250.jpg$image
 ||tailieu.vn/template-hoc247net/version1/default/images/graphics/trac-nghiem-1.gif?id=1.001d$image
