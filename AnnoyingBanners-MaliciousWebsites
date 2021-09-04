@@ -25,25 +25,7 @@ truyenqq.net###image_popup_background
 truyenqq.net##.left-banner
 truyenqq.net##.image_close
 truyenvua.com
-
-##[href="https://www.nettruyen.com/donate"]
-##.container > .gnarty-offads
-##.container > .gnarty-offads > .film-play-ads
-##[href^="https://www.vz888.me/"]
-##[src="https://animetvn.tv/ads/img/top_page_5.gif"]
-###menubentrai
-##.bentrai_two
-##.gnarty-home-off-ads
-##span.mmt-menu__item
-##.mmt-app
-##.mmt-container--fit.mmt-container
-###metu
-##[href^="https://sky88.com/"]
-##[src="http://s.truyenchon.com/data/sites/1/banner/300x250-top.gif?v=3"]
-##.pull-right.hidden-xs.list-inline.nav-account > .login-link > [href^="https://www.nettruyen.com/Secure/Login.aspx"]
-##.pull-right.hidden-xs.list-inline.nav-account > .register-link > [href^="https://www.nettruyen.com/Secure/Register.aspx"]
-##[src="https://i-vn.joboko.com/images/jqc/1.jpg"]
-
+genk.vn##.clearfix.khw-ads-wrapper
 moon.vn##.col-lg-5 > div
 vietjack.com##.navbar-header.navbar-default.navbar > .container-fluid
 www.fshare.vn###close-banner
@@ -64,6 +46,24 @@ vietjack.com##.box-most-viewed.box-course.box-slide
 hoc247.net###content-inread-video-15c47dbd541741bd976281bcda70b78c-1600485690939
 hoc247.net###wrapper-inread-video-15c47dbd541741bd976281bcda70b78c-1600485690939
 moon.vn##[src^="https://www.facebook.com/v2.6/plugins/customerchat.php?app_id=1784956665094089&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df181fd06cf0e47%26domain%3Dmoon.vn%26origin%3Dhttps%253A%252F%252Fmoon.vn%252Ffc05"]
+
+##[href="https://www.nettruyen.com/donate"]
+##.container > .gnarty-offads
+##.container > .gnarty-offads > .film-play-ads
+##[href^="https://www.vz888.me/"]
+##[src="https://animetvn.tv/ads/img/top_page_5.gif"]
+###menubentrai
+##.bentrai_two
+##.gnarty-home-off-ads
+##span.mmt-menu__item
+##.mmt-app
+##.mmt-container--fit.mmt-container
+###metu
+##[href^="https://sky88.com/"]
+##[src="http://s.truyenchon.com/data/sites/1/banner/300x250-top.gif?v=3"]
+##.pull-right.hidden-xs.list-inline.nav-account > .login-link > [href^="https://www.nettruyen.com/Secure/Login.aspx"]
+##.pull-right.hidden-xs.list-inline.nav-account > .register-link > [href^="https://www.nettruyen.com/Secure/Register.aspx"]
+##[src="https://i-vn.joboko.com/images/jqc/1.jpg"]
 
 ||beacons5.gvt3.com^
 ||jdb.link^
